@@ -30,28 +30,28 @@ This is realtime web chatting application include features like searching, addin
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/vickypl/LetsChat
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd LetsChat
 ```
 
 Install dependencies
 
 ```bash
-  npm install java, oracle 10g, eclipse IDE
+  setup java, oracle 10g, eclipse IDE
 ```
 ```bash
-  npm setup websockets urls
+  setup websockets urls
 ```
 
 Start the server
 
 ```bash
-  npm run start
+   access the url
 ```
 
 
